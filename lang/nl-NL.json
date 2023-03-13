@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "signInTitle": "Meld u aan bij uw account",
+    "forgotPassword": "Wachtwoord vergeten?"
+  },
+  "form": {
+    "email": "E-mailadres",
+    "password": "Wachtwoord",
+    "signIn": "Login",
+    "rememberMe": "Onthoud mij"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "signIn": "Inloggen"
+  }
+}

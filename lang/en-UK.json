@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "signInTitle": "Sign in to your account",
+    "forgotPassword": "Forgot your password?"
+  },
+  "form": {
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign in",
+    "rememberMe": "Remember me"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "signIn": "Sign in"
+  }
+}
